@@ -28,7 +28,7 @@
 - Integration 
 - Acceptance 
 
-  - Test Execution Summary  -  [html_format](TestResults/testExecutionSummary.html)
+  - Test Execution Summary  -  [html_format](testResults/testExecutionSummary.html)
     - 
     - ![test](assets/test.png)
 
