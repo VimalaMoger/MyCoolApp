@@ -1,6 +1,7 @@
 # Simple MyCoolApp Spring Boot project
 
-- Created project using Spring Initializer, simple REST Controller
+- Created project using Spring Initializer
+- Includes simple REST Controller, Greeting entity, utility classes, beans configurations 
 - Maven built project structure
   - POM.xml and dependencies like spring web used in the project
     - application.properties - added configurations like 
